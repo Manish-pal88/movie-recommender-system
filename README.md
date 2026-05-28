@@ -19,4 +19,4 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## Live Demo
-[Click Here](your-heroku-link-here)
+[Click Here](https://manish-movie-recommender-system.streamlit.app/)
