@@ -22,4 +22,4 @@ streamlit run app.py
 [Click Here](https://manish-movie-recommender-system.streamlit.app/)
 
 ## Project Notebook
-[View Jupyter Notebook](https://github.com/Manish-pal88/movie-recommender-system/blob/main/movie_recommender_notebook.ipynb)
+[View Jupyter Notebook](https://nbviewer.org/github/Manish-pal88/movie-recommender-system/blob/main/movie_recommender_notebook.ipynb)
