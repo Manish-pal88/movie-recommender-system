@@ -23,4 +23,4 @@ streamlit run app.py
 
 ## Project Notebook
 ## Project Notebook
-[View Jupyter Notebook](https://nbviewer.org/github/Manish-pal88/movie-recommender-system/blob/main/recommender_notebook.ipynb)
+[View Jupyter Notebook](https://colab.research.google.com/github/Manish-pal88/movie-recommender-system/blob/main/recommender_notebook.ipynb)
