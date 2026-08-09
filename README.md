@@ -21,6 +21,6 @@ streamlit run app.py
 ## Live Demo
 [Click Here](https://manish-movie-recommender-system.streamlit.app/)
 
-## Project Notebook
+
 ## Project Notebook
 [View Jupyter Notebook](https://colab.research.google.com/github/Manish-pal88/movie-recommender-system/blob/main/recommender_notebook.ipynb)
